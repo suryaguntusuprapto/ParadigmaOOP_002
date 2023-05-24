@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Asosiasi", "Asosiasi\Asosia
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Memberinitlist", "Memberinitlist\Memberinitlist.vcxproj", "{71A2F6E1-7DAB-4EF2-B763-31F14FF3DBB1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mainIA", "mainIA\mainIA.vcxproj", "{DBBE125A-A98D-4B1F-866C-D8AD791A88F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{71A2F6E1-7DAB-4EF2-B763-31F14FF3DBB1}.Release|x64.Build.0 = Release|x64
 		{71A2F6E1-7DAB-4EF2-B763-31F14FF3DBB1}.Release|x86.ActiveCfg = Release|Win32
 		{71A2F6E1-7DAB-4EF2-B763-31F14FF3DBB1}.Release|x86.Build.0 = Release|Win32
+		{DBBE125A-A98D-4B1F-866C-D8AD791A88F5}.Debug|x64.ActiveCfg = Debug|x64
+		{DBBE125A-A98D-4B1F-866C-D8AD791A88F5}.Debug|x64.Build.0 = Debug|x64
+		{DBBE125A-A98D-4B1F-866C-D8AD791A88F5}.Debug|x86.ActiveCfg = Debug|Win32
+		{DBBE125A-A98D-4B1F-866C-D8AD791A88F5}.Debug|x86.Build.0 = Debug|Win32
+		{DBBE125A-A98D-4B1F-866C-D8AD791A88F5}.Release|x64.ActiveCfg = Release|x64
+		{DBBE125A-A98D-4B1F-866C-D8AD791A88F5}.Release|x64.Build.0 = Release|x64
+		{DBBE125A-A98D-4B1F-866C-D8AD791A88F5}.Release|x86.ActiveCfg = Release|Win32
+		{DBBE125A-A98D-4B1F-866C-D8AD791A88F5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
