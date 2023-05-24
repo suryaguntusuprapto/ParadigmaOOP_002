@@ -5,7 +5,15 @@ using namespace std;
 class manusia {
 public:
 	string name;
-	jantung var jantung
+	jantung varJantung;
+
+	manusia(string pName)
+		:name(pName) {
+		cout << name << " hideup\n";
+	}
+	~manusia() {
+		cout << name << " mati\n";
+	}
 
 };
 #endif // !MANUSIA_H
